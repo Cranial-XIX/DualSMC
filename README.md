@@ -1,10 +1,9 @@
 # DualSMC
 This is the PyTorch code for the following paper, in which we proposed a deep model for POMDPs planning.
 
-**Dual Sequential Monte Carlo: Tunneling Filtering and Planning in Continuous POMDPs**
-Yunbo Wang*, Bo Liu*, Jiajun Wu, Yuke Zhu, Simon S. Du, Li Fei-Fei, and Joshua B. Tenenbaum. (* indicates equal contributions)
+**Dual Sequential Monte Carlo: Tunneling Filtering and Planning in Continuous POMDPs.** by Yunbo Wang*, Bo Liu*, Jiajun Wu, Yuke Zhu, Simon S. Du, Li Fei-Fei, and Joshua B. Tenenbaum. (* indicates equal contributions)
 
-[[Project Page]](http://people.csail.mit.edu/yunbo/dualsmc/), [[Paper]](https://arxiv.org/abs/1909.13003)
+[[Project Page]](http://people.csail.mit.edu/yunbo/dualsmc/) [[Paper]](https://arxiv.org/abs/1909.13003)
 
 
 We currently release the code for the first experimental domain, the floor positioning. The rest of the code for the 3D light-dark navigation domain and the modified Reacher domain will be released later. All experiments are reproducible.
