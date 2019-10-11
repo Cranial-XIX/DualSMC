@@ -1,7 +1,7 @@
 # DualSMC
 This is the PyTorch code for the following paper, in which we proposed a deep model for POMDPs planning.
 
-**Dual Sequential Monte Carlo: Tunneling Filtering and Planning in Continuous POMDPs.** by Yunbo Wang*, Bo Liu*, Jiajun Wu, Yuke Zhu, Simon S. Du, Li Fei-Fei, and Joshua B. Tenenbaum. (* indicates equal contributions)
+**Dual Sequential Monte Carlo: Tunneling Filtering and Planning in Continuous POMDPs** by Yunbo Wang*, Bo Liu*, Jiajun Wu, Yuke Zhu, Simon S. Du, Li Fei-Fei, and Joshua B. Tenenbaum. (* indicates equal contributions)
 
 [[Project Page]](http://people.csail.mit.edu/yunbo/dualsmc/) [[Paper]](https://arxiv.org/abs/1909.13003)
 
