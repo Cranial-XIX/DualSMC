@@ -14,8 +14,7 @@ Please remember to cite our paper if you use the code.
 @inproceedings{wang2019dualsmc,
   title     = {{DualSMC}: Tunneling Differentiable Filtering and Planning under Continuous {POMDPs}},
   author    = {Wang, Yunbo and Liu, Bo and Wu, Jiajun and Zhu, Yuke and Du, Simon S. and Fei-Fei, Li and Tenenbaum, Joshua B.},
-  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
-               Artificial Intelligence, {IJCAI-20}},
+  booktitle = {IJCAI},
   pages     = {4190--4198},
   year      = {2020},
 }
