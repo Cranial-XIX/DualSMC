@@ -1,5 +1,5 @@
 # DualSMC
-This is the PyTorch code for the following paper, in which we proposed a deep model for POMDPs planning.
+This is the PyTorch code for the following paper to be presented at IJCAI-20, in which we proposed a deep model for POMDPs planning.
 
 **DualSMC: Tunneling Differentiable Filtering and Planning under Continuous POMDPs** by Yunbo Wang*, Bo Liu*, Jiajun Wu, Yuke Zhu, Simon S. Du, Li Fei-Fei, and Joshua B. Tenenbaum. (* indicates equal contributions)
 
